@@ -1,0 +1,481 @@
+restaurant,rating,reviews,categories
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
+1. The Waterfront Restaurant & Tavern,4.5 star rating,226,American (New);Seafood;Steakhouses
+2. Restore Public House,4.5 star rating,17,American (Traditional)
+3. Buzzard Billy’s,4 star rating,275,American (Traditional);Cajun/Creole
+4. Lovechild Restaurant,4.5 star rating,109,American (New)
+5. The Charmant,4.5 star rating,149,French;Cocktail Bars
+6. The Freighthouse Restaurant,4 star rating,125,Seafood;Steakhouses;Desserts
+7. Howie’s on La Crosse,4 star rating,58,American (New);Pubs
+8. Piggy’s Restaurant,4 star rating,131,Steakhouses;Seafood;Sandwiches
+9. The Crow,3.5 star rating,154,American (Traditional);Gastropubs
+10. Milwaukee Burger Company,3.5 star rating,23,Burgers;Sports Bars;Beer Bar
+31. The Root Note,4.5 star rating,80,Music Venues;Coffee & Tea;Creperies
+32. Big Mama’s Gyros,5 star rating,9,Greek;Street Vendors
+33. Pickerman’s Soup & Sandwiches,4.5 star rating,57,Sandwiches;Soup
+34. David Reay’s Modern Diner + Tavern,3.5 star rating,96,Diners;Bars
+35. Big Al’s Pizza,3.5 star rating,70,Pizza
+36. New Taste of India,4 star rating,110,Indian
+37. Il Luigi Italian Cuisine,4.5 star rating,3,Italian;Wine Bars
+38. Uptowne Cafe & Bakery,4 star rating,45,Bakeries;Cafes;Breakfast & Brunch
+39. Fayze’s,3.5 star rating,129,Bakeries;American (Traditional);Pubs
+40. People’s Food Co-op,4.5 star rating,31,Grocery;Delis
